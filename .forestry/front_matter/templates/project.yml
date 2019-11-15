@@ -33,6 +33,7 @@ fields:
   config:
     required: true
 pages:
+- content/projects/test-avec-françois.md
 - content/projects/project-1.md
 - content/projects/test.md
 - content/projects/project-7.md
